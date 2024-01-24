@@ -1,7 +1,7 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
-FROM alpine:3.18
+FROM alpine:3
 
 LABEL maintainer="OpenTofu Team <opentf@opentf.org>"
 
